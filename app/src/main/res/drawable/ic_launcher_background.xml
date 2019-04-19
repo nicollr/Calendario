@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="ddcdbc9f-e087-4520-9447-04c250e75925" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="-592001962">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.closed"
+                        value="2" />
+                    <entry
+                        key="project.open.time.17"
+                        value="1" />
+                    <entry
+                        key="project.open.time.5"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="2" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="2" />
+                    <entry
+                        key="xml"
+                        value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="2" />
+                    <entry
+                        key="XML"
+                        value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="java"
+                        value="1134" />
+                    <entry
+                        key="xml"
+                        value="146" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="1134" />
+                    <entry
+                        key="XML"
+                        value="146" />
+                </counts>
+            </usages-collector>
+        </session>
+        <session id="875527166">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.closed"
+                        value="11" />
+                    <entry
+                        key="project.open.time.16"
+                        value="4" />
+                    <entry
+                        key="project.open.time.17"
+                        value="2" />
+                    <entry
+                        key="project.open.time.2"
+                        value="1" />
+                    <entry
+                        key="project.open.time.3"
+                        value="1" />
+                    <entry
+                        key="project.open.time.31"
+                        value="1" />
+                    <entry
+                        key="project.open.time.33"
+                        value="1" />
+                    <entry
+                        key="project.open.time.37"
+                        value="1" />
+                    <entry
+                        key="project.open.time.43"
+                        value="2" />
+                    <entry
+                        key="project.opened"
+                        value="13" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="java"
+                        value="23" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="23" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="java"
+                        value="1" />
+                    <entry
+                        key="xml"
+                        value="1" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="JAVA"
+                        value="1" />
+                    <entry
+                        key="XML"
+                        value="1" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="425">
+                            <caret
+                                column="30"
+                                line="25"
+                                selection-end-column="19"
+                                selection-end-line="32"
+                                selection-start-column="2"
+                                selection-start-line="7" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-designer2" />
+                </entry>
+            </file>
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/practicasql/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="220">
+                            <caret
+                                line="77"
+                                selection-end-line="77"
+                                selection-start-line="77" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="FileTemplateManagerImpl">
+        <option name="RECENT_TEMPLATES">
+            <list>
+                <option value="Class" />
+            </list>
+        </option>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/practica
